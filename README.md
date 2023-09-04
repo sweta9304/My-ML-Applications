@@ -7,13 +7,16 @@
 **Heart Disease Dataset:** The k-Nearest Neighbors algorithm is a supervised machine learning algorithm that can be used for both classification and regression tasks. In the context of a heart disease dataset, k-NN can be applied for classification, specifically to predict whether a patient has heart disease or not based on the provided attributes.
 Heart disease dataset typically contains data related to various factors and attributes associated with heart disease, such as patient information, medical measurements, and possibly a target variable indicating whether a patient has heart disease or not. Some common attributes in these datasets might include age, sex, cholesterol levels, blood pressure, electrocardiogram (ECG) results, and more.
 
-**Random Forest:** We have used ensemble algorithms to predict heart disease using the dataset and comparision is done with KNN algorithm.
+## Random Forest Ensemble Technique (MACHINE LEARNING): 
+Dataset: Heart Disease
+We have used ensemble algorithm- Random Forest to predict heart disease using the dataset and comparision is done with KNN algorithm.
 
 ## Iterative Deepening A Star Algorithm(ARTIFICIAL INTELLIGENCE):
 **Maze Agent Problem:** Given maze configuration, the task of the robot is to navigate in the maze and find the optimal path to reach the finish position. It can move to the north, south, west and east
 direction. While navigating through the environment it has obstacles like walls. For each transition, a path cost of +3 is added in search. Assume that the robot’s vision sensors are sensitive to the exposure to the sunlight and whenever it tries to move towards the east direction resulting in incurring an additional penalty of +5 cost. Use Manhattan distance as a heuristic wherever necessary.
 
-**Hill climbing:** Hill climbing is a simple and intuitive optimization algorithm used in the field of artificial intelligence and optimization. It is a local search algorithm that starts with an arbitrary solution to a problem and iteratively makes small incremental changes to the solution, moving in the direction that improves the solution's quality. The goal of hill climbing is to find the best possible solution within a local neighborhood of the current solution. The maze problem is solved again using hill climbing local search and both approach are compared.
+## Hill climbing Local Search (ARTIFICIAL INTELLIGENCE): 
+Hill climbing is a simple and intuitive optimization algorithm used in the field of artificial intelligence and optimization. It is a local search algorithm that starts with an arbitrary solution to a problem and iteratively makes small incremental changes to the solution, moving in the direction that improves the solution's quality. The goal of hill climbing is to find the best possible solution within a local neighborhood of the current solution. The maze problem is solved again using hill climbing local search and both approach are compared.
 
 ## Deep Feed Forward Networks (DEEP NEURAL NETWORKS):
 **Fashion MNist Dataset:** The Fashion MNIST dataset is a popular dataset used in machine learning for image classification tasks. It serves as a replacement for the traditional MNIST dataset, which contains handwritten digits (0-9). In the case of Fashion MNIST, the dataset consists of grayscale images of various fashion items, and the goal is to classify these items into specific categories.
