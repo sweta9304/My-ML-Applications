@@ -11,6 +11,8 @@ Heart disease dataset typically contains data related to various factors and att
 **Maze Agent Problem** Given maze configuration, the task of the robot is to navigate in the maze and find the optimal path to reach the finish position. It can move to the north, south, west and east
 direction. While navigating through the environment it has obstacles like walls. For each transition, a path cost of +3 is added in search. Assume that the robot’s vision sensors are sensitive to the exposure to the sunlight and whenever it tries to move towards the east direction resulting in incurring an additional penalty of +5 cost. Use Manhattan distance as a heuristic wherever necessary.
 
+**Hill climbing** Hill climbing is a simple and intuitive optimization algorithm used in the field of artificial intelligence and optimization. It is a local search algorithm that starts with an arbitrary solution to a problem and iteratively makes small incremental changes to the solution, moving in the direction that improves the solution's quality. The goal of hill climbing is to find the best possible solution within a local neighborhood of the current solution. The maze problem is solved again using hill climbing local search and both approach are compared.
+
 ## Deep Feed Forward Networks (DEEP NEURAL NETWORKS):
 **Fashion MNist Dataset** The Fashion MNIST dataset is a popular dataset used in machine learning for image classification tasks. It serves as a replacement for the traditional MNIST dataset, which contains handwritten digits (0-9). In the case of Fashion MNIST, the dataset consists of grayscale images of various fashion items, and the goal is to classify these items into specific categories.
 Number of Classes: 10
